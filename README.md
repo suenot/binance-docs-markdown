@@ -1,4 +1,5 @@
 # Binance API Documentation
+[![Context7 Docs](https://badgen.net/badge/Context7/Binance%20Docs/blue)](https://context7.com/suenot/binance-docs-markdown)
 
 This repository contains community-driven Markdown documentation for the Binance API, aiming for clarity and ease of use, especially for integration with AI systems.
 
